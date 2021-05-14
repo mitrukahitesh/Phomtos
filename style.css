@@ -267,6 +267,10 @@ img {
   transition: 300ms;
 }
 
+.option_image:hover {
+  transform: scale(0.98);
+}
+
 .suggestion {
   flex-direction: column;
 }
